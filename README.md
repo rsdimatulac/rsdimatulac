@@ -4,6 +4,8 @@
 - 🚀 I’m currently working on SlackX 
 - 🚁 Fun fact: I am a Pilot
 
+**Check out my personal website [here](https://rsdimatulac.github.io/). Let's connect!**
+
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
