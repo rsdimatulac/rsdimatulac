@@ -1,7 +1,6 @@
 ### Hi, I'm Renerose! 👋🏼
 
 - 👩🏽‍💻 I’m a Software Engineer
-- Currently looking for Software Engineer roles
 - 🚁 Fun fact: I am a Pilot
 
 **Check out my personal website [here](https://rsdimatulac.github.io/). Let's connect!**
