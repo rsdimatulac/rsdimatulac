@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
 ![](https://img.shields.io/badge/-Cypress-000?&logo=Cypress&style=for-the-badge)
 ![](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&style=for-the-badge)
+![](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=for-the-badge)
 
 <!--
 **rsdimatulac/rsdimatulac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
