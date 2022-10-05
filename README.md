@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/-Node.js-000?&logo=node.js&style=for-the-badge)
 ![](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
 ![](https://img.shields.io/badge/-Cypress-000?&logo=Cypress&style=for-the-badge)
-![](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&style=for-the-badge)
+![](https://img.shields.io/badge/-AWS-000?&logo=AWS&style=for-the-badge)
 ![](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=for-the-badge)
 
 <!--
