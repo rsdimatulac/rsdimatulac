@@ -1,6 +1,6 @@
 ### Hi, I'm Renerose! 👋🏼
 
-- 👩🏽‍💻 I’m a Software Engineer based in Seattle
+- 👩🏽‍💻 I’m a Full Stack Software Engineer based in Seattle
 - 🚁 Fun fact: I am a Pilot
 
 **Check out my personal website [here](https://rsdimatulac.github.io/). Let's connect!**
