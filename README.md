@@ -5,10 +5,9 @@
 
 **Check out my personal website [here](https://rsdimatulac.github.io/). Let's connect!**
 
-
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
-**Tools & Technology I use:**
+**My Arsenal of Tools and Technologies:**
 
 ![](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=for-the-badge)
 ![](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&style=for-the-badge)
