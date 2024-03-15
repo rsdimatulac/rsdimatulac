@@ -1,7 +1,7 @@
 ### Hi, I'm Renerose! 👋🏼
 
 - 👩🏽‍💻 I’m a Full Stack Software Engineer based in Seattle, WA.
-- 🚁 Fun fact: I am a Pilot. Watch me [fly](https://www.youtube.com/watch?v=j4oS2QsaTB4).
+- 🚁 Fun fact: I'm a Pilot. Watch me [fly](https://www.youtube.com/watch?v=j4oS2QsaTB4).
 
 **Check out my personal website [here](https://rsdimatulac.github.io/). Let's connect!**
 
