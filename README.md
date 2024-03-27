@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/-Technologies:-000?&logo=technologies&style=for-the-badge)
 ![](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=for-the-badge)
 ![](https://img.shields.io/badge/-React-000?&logo=react&style=for-the-badge)
+![](https://img.shields.io/badge/-NextJS-000?&logo=nextjs&style=for-the-badge)
 ![](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi&style=for-the-badge)
 ![](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss&style=for-the-badge)
 ![](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&style=for-the-badge)
